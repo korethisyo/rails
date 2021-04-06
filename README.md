@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# DMM WEBCAMP コンテンツ　[Railsを学ぼう]
+本来なら、３〜9章まで、逐一プッシュしなければいけないところ、こちらの確認不足でrailsの単元を全て勉強した後に、必須でプッシュしなければならないことに気づきました。運営部の方と連絡を取り、今回は完成後のソースコードをプッシュしてくれればいいと、対応していただきました。
